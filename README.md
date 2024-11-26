@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Artem!</h1>
 <h3 align="center">A passionate Systems Engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artiomdiakov&label=Profile%20views&color=0e75b6&style=flat" alt="artiomdiakov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artiomdiakov&label=Profile%20views&color=0e75b6&style=flat" alt="artiomdiakov" />As a systems engineer with a foundation in Front-End development and a passion for AI and Machine Learning, I am continuously expanding my expertise in these fields. I developed a Fake News Classifier website from start to finish, (web scraping, data enhancement, data cleaning, model training, Amazon AWS deployment) tailored to the Ecuadorian context, utilizing advanced technologies such as: Python, LLM, Word2Vec, LSTM, Flask, AWS EC2, TensorFlow, PyTorch, CUDA GPU, Selenium WD, and BeautifulSoup4. The platform achieves up to 94% accuracy on test data.
+
+In addition to my technical skills, I have gained valuable international experience working aboard cruise lines in Miami for three years, enhancing my English proficiency and cross-cultural communication abilities.
+
+Despite not yet having professional experience specifically in Machine Learning, I am dedicated to learning and mastering this field. I am eager to secure an entry-level position where I can apply my skills and contribute to innovative AI and ML projects. </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artiomdiakov" alt="artiomdiakov" /></a> </p>
 
